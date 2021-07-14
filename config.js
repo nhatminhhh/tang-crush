@@ -1,6 +1,6 @@
 const CONFIG = {
-    introTitle: 'Yến à!',
-    introDesc: `Chưa bao giờ MIh nghĩ rằng Yến là gu của Minh đâu
+    introTitle: 'Tiểu Yến à!',
+    introDesc: `Chưa bao giờ MInh nghĩ rằng Yến là gu của Minh đâu
     Chưa bao giờ Minh nghĩ rằng Minh sẽ fall in love with u
     Mà giọng nói ngọt ngào cất ra từ heaphone
     Say đắm cồn cào lỡ yêu rồi mất khôn...`,
